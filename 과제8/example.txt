@@ -1,9 +1,0 @@
-Albert,  0.15
-Kim, 0.2
-Daniel, 0.15
-Wally, 0.1
-Isabelle, 0.05 
-Brown, 0.1
-Carmen, 0.05
-Tom, 0.15
-Ursula, 0.05
