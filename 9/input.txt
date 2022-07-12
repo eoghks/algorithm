@@ -1,0 +1,6 @@
+Number of vertices: 5
+0 1 3 inf inf
+1 0 3 6 inf
+3 3 0 4 2
+inf 6 4 0 5
+inf inf 2 5 0

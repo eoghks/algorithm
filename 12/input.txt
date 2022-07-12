@@ -1,0 +1,5 @@
+W=16
+id: 1 price: 30 wegiht: 2
+id: 2 price: 50 wegiht: 10
+id: 3 price: 35 wegiht: 5
+id: 4 price: 10 wegiht: 5
